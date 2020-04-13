@@ -51,7 +51,7 @@ udp://@239.255.15.52:1234
 #EXTINF:-1 group-title="Lietuviški" tvg-id="info-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/info-tv.png",Info TV
 udp://@239.255.14.37:1234
 
-#EXTINF:-1 group-title="Lietuviški" tvg-id="liuks" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/liuks.png",Liuks!
+#EXTINF:-1 group-title="Lietuviški" tvg-id="2TV" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/liuks.png",2TV
 udp://@239.255.15.62:1234
 
 #EXTINF:-1 group-title="Lietuviški" tvg-id="balticum-tv" tvg-logo="https://raw.githubusercontent.com/augustas2/iptv/master/images/balticum-tv.png",Balticum TV
